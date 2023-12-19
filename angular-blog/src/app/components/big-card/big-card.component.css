@@ -1,0 +1,29 @@
+.content {
+    padding: 20px;
+    width: 600px;
+    height: 600px;
+}
+
+.img {
+    background-color: #242424;
+    border: 2px solid #fff;
+    margin: 0 auto;
+    width: 560px;
+    height: 400px;
+}
+
+.description {
+    margin-top: 20px;
+    width: 560px;
+    height: 140px;
+}
+
+.description h3 {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.description p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffffc2;
+}

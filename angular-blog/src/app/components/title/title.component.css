@@ -1,0 +1,16 @@
+.title-container {
+    width: 0 auto;
+
+    margin: 10px;
+
+    text-align: center;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+}
